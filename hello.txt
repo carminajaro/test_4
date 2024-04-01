@@ -1,1 +1,3 @@
 My Name is Carmina Jaro and my background is Computer Linguistics.
+
+My expectation from this course is to get a brush-up and gain deeper knowledge about Data Scientists. 
